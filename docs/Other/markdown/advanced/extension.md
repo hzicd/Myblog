@@ -110,3 +110,16 @@ print("hello world!")
 ```
 :::
 
+
+## emoji
+
+示例：
+```markdown
+:表情代码:
+:smile:
+:heart_eyes:
+```
+:smile:
+:heart_eyes:
+
+推荐一个[emoji代码仓库](https://gist.github.com/rxaviers/7360908)

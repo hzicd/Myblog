@@ -205,10 +205,8 @@ export default {
             collapsed: true,
             items: [
                 { text: '扩展语法', link: '/Other/markdown/advanced/extension.md' },
+                {text: '代码块的进阶', link: '/Other/markdown/advanced/codeblock.md' },
                 { text: '数学公式', link: '/Other/markdown/advanced/math.md' },
-                { text: '流程图与图表', link: '/Other/markdown/advanced/diagram.md' },
-                { text: '自定义样式', link: '/Other/markdown/advanced/style.md' },
-                { text: '常用工具与编辑器', link: '/Other/markdown/advanced/tools.md' }
             ]
         },
         {
